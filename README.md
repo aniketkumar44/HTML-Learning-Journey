@@ -15,6 +15,10 @@ I have arranged my code files in a logical sequence to reflect my learning curve
 ### 📊 Phase 2: Tabular Data
 * **[02_HTML_Tables_Basics.html](./02_HTML_Tables_Basics.html)** - Learned to organize data using `<table>`, `<thead>`, `<tbody>`, `<tr>`, `<td>`, and used `colspan` for formatting.
 
+### 📝 Phase 3: Forms & User Inputs
+* **[03_Basic_Input_Forms.html](./03_Basic_Input_Forms.html)** - Created a basic structure with checkboxes, radio buttons, password fields, dropdown menus, and integrated a YouTube iframe.
+* **[04_Simple_Contact_Form.html](./04_Simple_Contact_Form.html)** - A clean and simple "Get in Touch" form to collect basic user details and messages.
+
 ### 🛠️ Tech Stack
 * **Language:** HTML5
 * **Styling:** Basic Inline CSS (for structural layout)
